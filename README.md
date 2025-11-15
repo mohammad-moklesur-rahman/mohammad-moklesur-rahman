@@ -1,16 +1,16 @@
 ### Hi, I'm Mohammad Moklesur Rahman 👋
 
-![](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/581942451_1583909326295483_6049417130579386050_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5dcBGWTvSwIQ7kNvwGZ_n4Z&_nc_oc=AdkzdeY24JxOB4d0BKKtYd7vGQvSsAhN_XFx9vlkUxNAxVqikQB2If7ohNsMw9RFXSg&_nc_zt=23&_nc_ht=z-p3-scontent.fdac12-1.fna&_nc_gid=sJ_zRvTL4d2jxyhwHmOc0g&oh=00_AfiUg8qXLExFDlp5-TinNUKNjjnN35vu4vF-_kVC10oNlw&oe=691DB642)
+![](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/583681410_122097553017126662_2708769168359864602_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CYv8OLas-UoQ7kNvwH7BKWx&_nc_oc=AdnCkCSPC0JF6vVqAjFv5rBMYKYUcPy-5_zPzQ6_bmYM1NCMji5wZy0JX9FS2JlabwE&_nc_zt=23&_nc_ht=z-p3-scontent.fdac12-1.fna&_nc_gid=MnlYqStWM5l3FZ266JY3vQ&oh=00_Afg8Q1CibYTCnPI6hhRFOm9A_plibQqV8DmhNC5qRsTOyQ&oe=691E401B)
 
 I am a Junior Frontend Developer specializing in React and modern web technologies. I build responsive, scalable, and user-focused applications with clean architecture and optimized performance. I also have hands-on experience with Node.js, Express, and MongoDB, allowing me to work across both frontend and basic backend integrations. I am passionate about problem-solving, UI/UX improvements, and continuous learning to deliver high-quality digital solutions. Let's connect!
 
-<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)</a>
-
+<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)</a> <a href="https://www.facebook.com/moklesur.se">![icons8-facebook-50](https://github.com/user-attachments/assets/b310432c-4af1-4676-b4f4-03bf83e4a3b9)
+</a>
 
 ### 🔧 Technologies I Use:
 - React, JavaScript  
 - HTML5, CSS3, Tailwind css  
-- Basic Node.js, Express & MongoDB 
+- Node.js, Express & MongoDB 
 - Git & GitHub
 - Firebase, JWT, MVC 
 
