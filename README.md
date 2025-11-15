@@ -1,10 +1,10 @@
-![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)### Hi, I'm Mohammad Moklesur Rahman 👋
+### Hi, I'm Mohammad Moklesur Rahman 👋
 
 ![](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/581942451_1583909326295483_6049417130579386050_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5dcBGWTvSwIQ7kNvwGZ_n4Z&_nc_oc=AdkzdeY24JxOB4d0BKKtYd7vGQvSsAhN_XFx9vlkUxNAxVqikQB2If7ohNsMw9RFXSg&_nc_zt=23&_nc_ht=z-p3-scontent.fdac12-1.fna&_nc_gid=sJ_zRvTL4d2jxyhwHmOc0g&oh=00_AfiUg8qXLExFDlp5-TinNUKNjjnN35vu4vF-_kVC10oNlw&oe=691DB642)
 
 I am a Junior Frontend Developer specializing in React and modern web technologies. I build responsive, scalable, and user-focused applications with clean architecture and optimized performance. I also have hands-on experience with Node.js, Express, and MongoDB, allowing me to work across both frontend and basic backend integrations. I am passionate about problem-solving, UI/UX improvements, and continuous learning to deliver high-quality digital solutions. Let's connect!
 
-<a href="">![Uploading icons<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="50px" height="50px"><path fill="#0288D1" d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z"/><path fill="#FFF" d="M12 19H17V36H12zM14.485 17h-.028C12.965 17 12 15.888 12 14.499 12 13.08 12.995 12 14.514 12c1.521 0 2.458 1.08 2.486 2.499C17 15.887 16.035 17 14.485 17zM36 36h-5v-9.099c0-2.198-1.225-3.698-3.192-3.698-1.501 0-2.313 1.012-2.707 1.99C24.957 25.543 25 26.511 25 27v9h-5V19h5v2.616C25.721 20.5 26.85 19 29.738 19c3.578 0 6.261 2.25 6.261 7.274L36 36 36 36z"/></svg>8-linkedin-50.svg…]()</a>
+<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)]</a> <a href="">[![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)]</a>
 
 
 ### 🔧 Technologies I Use:
