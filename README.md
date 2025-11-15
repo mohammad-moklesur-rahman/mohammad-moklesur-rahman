@@ -4,7 +4,7 @@
 
 I am a Junior Frontend Developer specializing in React and modern web technologies. I build responsive, scalable, and user-focused applications with clean architecture and optimized performance. I also have hands-on experience with Node.js, Express, and MongoDB, allowing me to work across both frontend and basic backend integrations. I am passionate about problem-solving, UI/UX improvements, and continuous learning to deliver high-quality digital solutions. Let's connect!
 
-<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)]</a> <a href="">[![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)]</a>
+<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)</a>
 
 
 ### 🔧 Technologies I Use:
