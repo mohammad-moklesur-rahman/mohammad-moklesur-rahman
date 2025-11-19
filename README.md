@@ -4,15 +4,15 @@
 
 I am a Junior Frontend Developer specializing in React and modern web technologies. I'm interested in full-stack web development with both the MERN and PERN stacks, focusing on building scalable and modern web applications. I build responsive, scalable, and user-focused applications with clean architecture and optimized performance. I also have hands-on experience with Node.js, Express, and MongoDB, allowing me to work across both frontend and basic backend integrations. I am passionate about problem-solving, UI/UX improvements, and continuous learning to deliver high-quality digital solutions. Let's connect!
 
-<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)</a> <a href="https://www.facebook.com/moklesur.se">![icons8-facebook-50](https://github.com/user-attachments/assets/b310432c-4af1-4676-b4f4-03bf83e4a3b9)
-</a>
+<a href="https://www.linkedin.com/in/mohammad-moklesur-rahman">![icons8-linkedin-50](https://github.com/user-attachments/assets/01110f8d-2c78-4020-978f-211f095c2d88)</a> <a href="https://www.facebook.com/moklesur.se">![icons8-facebook-50](https://github.com/user-attachments/assets/b310432c-4af1-4676-b4f4-03bf83e4a3b9)</a> <a href="https://x.com/moklesur_se">![icons8-x-50](https://github.com/user-attachments/assets/27442230-22af-418d-8a94-32d213f905dd)</a>
 
 ### 🔧 Technologies I Use:
 - React, JavaScript  
 - HTML5, CSS3, Tailwind css  
 - Node.js, Express & MongoDB 
 - Git & GitHub
-- Firebase, JWT, REST APIs, MVC 
+- Firebase, JWT, REST APIs, MVC
+- Others...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-moklesur-rahman)](https://github.com/anuraghazra/github-readme-stats)
 
